@@ -33,6 +33,6 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 
 - This allows you to get every players that is registered on the server.
 
-2. `-logdata removeAccount "PlayerName"`
+2. `-logdata removeAccount "USER"`
 
 - Allows you to unregister the player onto your server.
