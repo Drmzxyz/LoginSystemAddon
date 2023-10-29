@@ -36,3 +36,7 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 2. `-logdata removeAccount #`
 
 - Allows you to unregister the player onto your server.
+
+`Example:`
+
+`-logdata removeAccount "Steak"`
