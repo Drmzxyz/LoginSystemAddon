@@ -2,8 +2,6 @@
 
 Welcome to the login system add-on! This addon provides a simple way to manage user accounts in your minecraft server. This requires the players to register a account to play on your serer in short you can get who already played on your world.
 
-#
-
 ### Getting Started!
 
 ## Installation:
