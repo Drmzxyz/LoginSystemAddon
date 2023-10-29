@@ -19,12 +19,22 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 
 ## Usage
 
-#
+## Permission:
 
-## Commands:
-
-1. Add the a tag to players you want to get access to use the command of this add-on with the following tags:
+1. Add a tag to the players you want to get access to use the command of this add-on with the following tags:
 
 - Owner001
 - Admin002
 - Staff003
+
+## Commands:
+
+`DEFAULT:`
+
+1. `-logdata getAccounts`
+
+- This allows you to get every players that is registered on the server.
+
+2. `-logdata removeAccount "PlayerName"`
+
+- Allows you to unregister the player onto your server.
