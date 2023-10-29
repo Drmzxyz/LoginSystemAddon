@@ -6,8 +6,6 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 
 ### Getting Started!
 
-#
-
 ## Installation:
 
 1. Download the add-on.
@@ -19,7 +17,7 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 
 ## Usage
 
-## Permission:
+# Permission:
 
 1. Add a tag to the players you want to get access to use the command of this add-on with the following tags:
 
@@ -27,7 +25,7 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 - Admin002
 - Staff003
 
-## Commands:
+# Commands:
 
 `DEFAULT:`
 
