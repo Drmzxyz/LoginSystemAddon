@@ -4,20 +4,21 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 
 #
 
-## Getting Started!
+# Getting Started!
 
-# Installation:
+## Installation:
 
 1. Download the add-on.
 2. Upload the add-on onto your minecraft.
-3. Activate both resources and behavior pack on your world settings.
+3. Activate behavior pack on your world settings.
 4. Enable `Beta APIS` in your experimental world settings.
+5. Enjoy.
 
 #
 
-## Usage
+# Usage
 
-# Permission:
+## Permission:
 
 1. Add a tag to the players you want to get access to use the command of this add-on with the following tags:
 
@@ -25,30 +26,30 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 - Admin002
 - Staff003
 
-# Commands:
+## Commands:
 
 `DEFAULT:`
 
-1. `-logdata getAccounts`
+1. `-logData getAccount #`
 
-- Allows you to get every players that is registered on the server.
+- Allows you to get the specific player account information.
 
-2. `-logdata removeAccount #`
+2. `-logData removeAccount #`
 
 - Allows you to unregister the player onto your server.
 
-3. `-logdata avoid #`
+3. `-logData avoidUser #`
 
 - This command is designed to exempt specific players flagged by administrators, allowing them to enter the server without the need to log in to their accounts. However, it's important to note that this command is exclusively available for newly registered players on the server.
 
-4. `-logdata unavoid #`
+4. `-logData unAvoidUser #`
 
 - You can only select players that are in the exempted list, this will unexempt a player that are flagged as to be letting in without logging in to their accounts.
 
-5. `-logdata continue`
+5. `-logData continue`
 
-- This command is connected with the `removeAccount` command, this will confirm within 10 seconds if the player account will get unregistered to its server.
+- This command is connected with the `removeAccount` command, this can be only use within before 15 seconds or else the automatic deletion cancellation will be triggered.
 
-6. `-logdata cancel`
+6. `-logData cancel`
 
-- Same as `-logdata continue` allows you to cancel unregistration of the players account you want to be removed.
+- Same as `-logData continue` allows you to cancel the player account deletion when on process.
