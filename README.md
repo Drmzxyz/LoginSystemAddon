@@ -54,12 +54,14 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 
 - Same as `-logData continue` allows you to cancel the player account deletion when on process.
 
-## Note
-
-- Email and password must be 5 characters longer or else system will not let you create a account!
-
 ## Reports
 
 - If you encounter any bugs, please feel free to reach out to me on Discord. Additionally, if you have any suggestions for improving this addon or want to contribute to its moderation, don't hesitate to send me a direct message!
 
 - **Discord**: `Drmz#1263`
+
+## Note
+
+- Email and password must be 5 characters longer or else system will not let you create a account!
+
+- I am not the real DRMZ!
