@@ -62,4 +62,4 @@ Welcome to the login system add-on! This addon provides a simple way to manage u
 
 - If you encounter any bugs, please feel free to reach out to me on Discord. Additionally, if you have any suggestions for improving this addon or want to contribute to its moderation, don't hesitate to send me a direct message!
 
-**Discord**: `Drmz#1263`
+- **Discord**: `Drmz#1263`
